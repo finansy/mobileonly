@@ -31,7 +31,9 @@
     "uniqCompNum": 1,
     "versionPublish": "4.7.6",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/1-45x39.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
